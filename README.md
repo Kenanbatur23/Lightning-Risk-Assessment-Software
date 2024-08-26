@@ -1,2 +1,2 @@
-During our internship at Radsan, one of the few companies that carry out lightning protection studies worldwide, our intern teammates and we developed a lightning risk analysis program called "Lightning Risk Assessment Software". This software calculates risk values ​​for the user and can present a report of approximately twenty pages with certain parameters.
-made by Kenan Batur, Mert Sivri, Can Emre Küçük
+During our internship at Radsan, one of the few companies that carry out lightning protection studies worldwide, our intern teammates and we developed a lightning risk analysis program called "Lightning Risk Assessment Software". This software calculates risk values ​​for the user and can present a report of approximately twenty pages with certain parameters.<BR>
+Made by Kenan Batur, Mert Sivri, Can Emre Küçük
